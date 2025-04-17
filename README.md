@@ -8,18 +8,27 @@ Capacitive Water Sensor:
 This is a non-contact liquid level sensor with status indicator and adjustable sensitivity. It can be used in liquid detection of non-metallic container or pipe(outer diameter>11mm), suitable for all types of detection of curved or flat surfaces, arcs, cylindrical containers, or piping fluids. The status feedback of the sensor can be given in real-time. Besides that, the sensor comes with a 4 pin sensor adaptor that can directly collect digital signal, convenient for connecting with Arduino or other main-controllers. This liquid level sensor can be widely used in liquid detection of a tank, water dispenser, etc.
 
 Power Supply: 5~12V
+
 Output Mode: switch quantity (high-level output)
+
 Response Time: 500ms
+
 Operating Temperature: -5~105°C
+
 Liquid Level Error: ±1.5mm
+
 Thickness Range(TR): ≤20mm
+
 Suitable Container OD: ≥11mm
+
 Response Time: 500ms
+
 Waterproof Performance: IP65
 
 This non-contact liquid level sensor is developed on advanced signal process technology by high-speed signal processing chip. It can measure the liquid level of a closed container without the influence of corrosive liquids like strong acid and alkali, or other impurities. Do we really need an Arduino with this, the answer is NO. This sensor outputs a digital output means:
 
 Water Detected: 1
+
 Water Not Detected: 0
 
 Features:
